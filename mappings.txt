@@ -1,0 +1,11 @@
+Όνομα
+Επώνυμο
+http://bioportal.bioontology.org/ontologies/SNOMEDCT/?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F302147001
+
+
+ΑΜΚΑ
+http://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F398093005
+
+
+κατηγορία περιστατικού  http://bioportal.bioontology.org/ontologies/RCD?p=classes&conceptid=http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FRCD%2FX78uH
+
